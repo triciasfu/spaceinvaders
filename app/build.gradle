@@ -27,4 +27,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     compileOnly 'com.google.android.things:androidthings:+'
     implementation files('/Users/triciasfu/Documents/Processing/modes/AndroidMode/processing-core copy.jar')
+    compile 'com.google.android.things.contrib:driver-rainbowhat:0.10'
 }
